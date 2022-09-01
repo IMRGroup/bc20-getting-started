@@ -1,0 +1,23 @@
+{
+  "id": "b63f3242-12c6-48f2-a366-71b4092a8f10",
+  "name": "bc20-getting-started",
+  "publisher": "imr",
+  "version": "1.0.0.0",
+  "description": "IMR sample app for getting started on Business Central 20",
+  "dependencies": [],
+  "platform": "20.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 501000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "target": "OnPrem",
+  "runtime": "9.0"
+}
